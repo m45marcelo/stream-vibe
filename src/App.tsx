@@ -1,11 +1,5 @@
-import { Home } from "./pages/Home.page"
+import { AppRoutes } from "./routes/AppRoutes";
 
-function App() {
-    return (
-    <>
-        <Home/>
-    </>
-    )
-}
-
-export default App
+export const App = () => {
+	return <AppRoutes />;
+};
