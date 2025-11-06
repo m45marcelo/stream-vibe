@@ -51,7 +51,7 @@ export const SectionExploreCategories = () => {
 					/>
 					<div className="h-6 flex justify-between">
 						<CustomText className="text-base font-medium text-absolute-white">
-							Ação
+							Aventura
 						</CustomText>
 						<img
 							alt="imagem de uma seta"
@@ -68,7 +68,7 @@ export const SectionExploreCategories = () => {
 					/>
 					<div className="h-6 flex justify-between">
 						<CustomText className="text-base font-medium text-absolute-white">
-							Ação
+							Comédia
 						</CustomText>
 						<img
 							alt="imagem de uma seta"
@@ -85,7 +85,7 @@ export const SectionExploreCategories = () => {
 					/>
 					<div className="h-6 flex justify-between">
 						<CustomText className="text-base font-medium text-absolute-white">
-							Ação
+							Drama
 						</CustomText>
 						<img
 							alt="imagem de uma seta"
@@ -102,7 +102,7 @@ export const SectionExploreCategories = () => {
 					/>
 					<div className="h-6 flex justify-between">
 						<CustomText className="text-base font-medium text-absolute-white">
-							Ação
+							Horror
 						</CustomText>
 						<img
 							alt="imagem de uma seta"
